@@ -1,0 +1,13 @@
+h1{
+	color: red;
+	text-align: center;
+}
+body{
+	background-color: #fcc603;
+}
+img{
+	border: solid 6px red;
+}
+p{
+	color: gray;
+}
